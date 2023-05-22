@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achikokhmaladze" alt="achikokhmaladze" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AchikoKhmaladze](https://github.com/AchikoKhmaladze)
 
