@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achikokhmaladze" alt="achikokhmaladze" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/AchikoKhmaladze](https://github.com/AchikoKhmaladze)
+- 👨‍💻 All of my projects are available at https://achikokhmaladze.netlify.app/
 
 - 📫 How to reach me **https://www.linkedin.com/in/achiko-khmaladze-59092725b/ , achikoxmaladze3@gmail.com**
 
